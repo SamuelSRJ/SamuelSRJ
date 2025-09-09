@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Samuel 👋</h1>
 
 💻 Web Developer | Full Stack JavaScript  
-🎓 Computer Science graduate  
+🎓 Bachelor of Computer Science  
 🚀 Always learning, building and improving
 
 ---
