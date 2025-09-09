@@ -1,26 +1,21 @@
-<h1 align="center">Hey there, I'm Samuel 👋</h1>
+# Hey there, I'm Samuel 👋
 
-###
+💻 Web Developer | Full Stack JavaScript  
+🎓 Computer Science graduate  
+🚀 Always learning, building and improving
 
-<h4 align="left">💻 Web Developer | Full Stack JavaScript  <br>🎓 Computer Science graduate  <br>🚀 Always learning, building and improving</h4>
+---
 
-###
+## About Me
+- 5 years of experience in technology (IT, projects, BI and data analysis)  
+- Currently focused on **full stack web development**  
+- Passionate about building functional, secure and scalable solutions  
+- Love exploring **APIs, automation and back-end best practices**  
+- Currently studying **Node.js, React and TypeScript** to strengthen my favorite stack  
 
-<br clear="both">
+---
 
-<h2 align="center">About Me</h2>
-
-###
-
-<p align="left">- 5 years of experience in technology (IT, projects, BI and data analysis)  <br>- Currently focused on **full stack web development**  <br>- Passionate about building functional, secure and scalable solutions  <br>- Love exploring **APIs, automation and back-end best practices**  <br>- Currently studying **Node.js, React and TypeScript** to strengthen my favorite stack</p>
-
-###
-
-<br clear="both">
-
-<h2 align="center">Tech & Tools</h2>
-
-###
+## Tech & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
